@@ -1,6 +1,10 @@
 
 Dosen PeTIK :
+<<<<<<< HEAD
 1. Irwanto
+=======
+1. Ismail
+>>>>>>> d4459f3 (Menggubah iskandar menjadi ismail)
 2. Bayu
 3. Zaid
 4. Lintang
